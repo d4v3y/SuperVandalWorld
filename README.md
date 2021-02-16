@@ -9,12 +9,12 @@ Controls: </br>
 * Right -> D </br>
 
 ## Creators
-Justin Harris,
-Keller Lawson,
-Ben Odell,
-Davey Anguiano,
-Heba Aljabrine,
-and John Cambareri
+[Justin Harris](https://github.com/jmharris7755),
+[Keller Lawson](https://github.com/keeperkell),
+[Benjamin Odell](https://github.com/odel8968),
+[Davey Anguiano](https://github.com/d4v3y),
+[Heba Aljabrine](https://github.com/HebaAljabrine),
+and [John Cambareri](https://github.com/cambarerij)
 
 ### Version
 1.0.0 (Jan 1, 2021)
