@@ -9,9 +9,9 @@ Controls: </br>
 * Right -> D </br>
 
 ## Creators
-Justin,
+Justin Harris,
 Keller Lawson,
-Ben,
+Ben Odell,
 Davey Anguiano,
 Heba Aljabrine,
 and John Cambareri
